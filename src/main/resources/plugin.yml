@@ -1,0 +1,5 @@
+name: GoldenSkyBlock
+version: '${project.version}'
+main: de.tomstahlberg.goldenskyblock.Goldenskyblock
+api-version: 1.19
+authors: [ Kadnick ]
